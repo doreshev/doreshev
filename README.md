@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/37631996/204142256-621a3597-fbf5-409a-bc7b-16325063d35f.png)
+![MasterHead](https://user-images.githubusercontent.com/37631996/204142256-621a3597-fbf5-409a-bc7b-16325063d35f.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robotto&pause=1000&color=9C9C9C&width=435&lines=CONTACT+INFORMATION)](https://git.io/typing-svg)
 <p>
