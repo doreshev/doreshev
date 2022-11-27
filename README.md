@@ -12,7 +12,6 @@ Currently studying at 42!
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   <img align="left">
 />
-<img src="https://github.com/doreshev" />
 </picture>
 
 <picture>
@@ -25,5 +24,4 @@ Currently studying at 42!
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github.com/doreshev" />
 </picture>
