@@ -31,5 +31,5 @@ GITHUB STATS
 </a>
 
 <a href="https://github.com/doreshev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&theme=transparent" />
 </a>
