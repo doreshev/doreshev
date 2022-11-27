@@ -1,6 +1,6 @@
-
-<iframe src="https://giphy.com/embed/35NGT2lm6mfHlNAkMu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/natgeochannel-nat-geo-national-geographic-hostile-planet-35NGT2lm6mfHlNAkMu">via GIPHY</a></p>
-
+<img src="https://giphy.com/embed/35NGT2lm6mfHlNAkMu" 
+     width="3280" 
+     height="1152" />
 
 <a href="https://github.com/doreshev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent" />
