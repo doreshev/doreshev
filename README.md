@@ -1,6 +1,4 @@
-<img src="https://giphy.com/embed/35NGT2lm6mfHlNAkMu" 
-     width="3280" 
-     height="1152" />
+<img style='width: 100%; object-fit: https://media.giphy.com/media/35NGT2lm6mfHlNAkMu/giphy.gif'/>
 
 <a href="https://github.com/doreshev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent" />
