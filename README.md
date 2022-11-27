@@ -1,4 +1,4 @@
-<img style='width: 100%; object-fit: https://media.giphy.com/media/35NGT2lm6mfHlNAkMu/giphy.gif'/>
+<img style='width: 100%; object-fit: img src=https://media.giphy.com/media/35NGT2lm6mfHlNAkMu/giphy.gif'/>
 
 <a href="https://github.com/doreshev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent" />
