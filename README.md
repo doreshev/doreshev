@@ -1,12 +1,24 @@
 [![MasterHead](https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVsbG98ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)](https://github.com/doreshev)
+
+I'm Didar, computer science student at 42 Heilbronn!
+
+Quick overview:
+- More than 10 projects completed
+- Sorting alghoritm
+- Ray-casting alghorithm
+- mini version of Shell
+- Red and Black tree alghorithm
+- C++ containers implementation
+
 <a href="https://github.com/doreshev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent" />
 </a>
 
-
 <a href="https://github.com/doreshev">
   <src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact&theme=transparent" />
 </a>
+
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 SKILLS
 
