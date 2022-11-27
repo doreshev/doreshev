@@ -1,6 +1,5 @@
 [![MasterHead](https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVsbG98ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)](https://github.com/doreshev)
 
-<p style="color:#9C9C9C"> CONTACT INFORMATION </p>
 <p>
  <a target="_blank" href="https://www.linkedin.com/in/dida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
  <a target="_blank" href="mailto:didaroreshev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
