@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVsbG98ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60)](https://github.com/doreshev)
+[![MasterHead](https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVsbG98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60)](https://github.com/doreshev)
 <a href="https://github.com/doreshev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent" />
 </a>
