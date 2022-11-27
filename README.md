@@ -1,5 +1,12 @@
 [![MasterHead](https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVsbG98ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60)](https://github.com/doreshev)
 
+CONTACTS
+<p>
+ <a target="_blank" href="https://www.linkedin.com/in/dida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
+ <a target="_blank" href="mailto:didaroreshev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </p>
+</br>
+
 I'm Didar, computer science student at 42 Heilbronn!
 
 Quick overview:
@@ -17,9 +24,6 @@ Quick overview:
 <a href="https://github.com/doreshev">
   <src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact&theme=transparent" />
 </a>
-
-Let's connect
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dida)
 
 SKILLS
 
