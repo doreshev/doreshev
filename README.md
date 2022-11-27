@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Didar!
-
-Currently studying at 42!
+[![MasterHead](https://media0.giphy.com/media/35NGT2lm6mfHlNAkMu/giphy.gif?cid=ecf05e47glgxpv9za6tamdboiv9g6iik6ijijlj0n5njlb6l&rid=giphy.gif&ct=g)](https://github.com/doreshev)
 
 
 <a href="https://github.com/doreshev">
-  <src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent" />
 </a>
-
 
 
 <a href="https://github.com/doreshev">
