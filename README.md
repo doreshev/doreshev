@@ -19,6 +19,7 @@ Currently studying at 42!
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact&theme=onedark"
   media="(prefers-color-scheme: dark)"
+  <img align="right">
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact"
