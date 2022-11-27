@@ -2,12 +2,26 @@
 
 Currently studying at 42!
 
-img {
-  pointer-events: none;
-  user-select: none;
-}
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=onedark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github.com/doreshev?tab=repositories" />
+</picture>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent"/>
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact&theme=transparent"  unselectable="on" />
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact&theme=onedark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github.com/doreshev?tab=repositories" />
+</picture>
