@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/35NGT2lm6mfHlNAkMu/giphy.gif"
+[![MasterHead](https://media.giphy.com/media/35NGT2lm6mfHlNAkMu/giphy.gif)](https://github.com/doreshev)
 
 <a href="https://github.com/doreshev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true&theme=transparent" />
