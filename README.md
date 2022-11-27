@@ -18,7 +18,8 @@ Quick overview:
   <src="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact&theme=transparent" />
 </a>
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+Let's connect
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dida)
 
 SKILLS
 
