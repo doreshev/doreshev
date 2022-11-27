@@ -11,7 +11,7 @@ Currently studying at 42!
   srcset="https://github-readme-stats.vercel.app/api?username=doreshev&count_private=true&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github.com/doreshev?tab=repositories" />
+<img src="https://github.com/doreshev" />
 </picture>
 
 <picture>
@@ -23,5 +23,5 @@ Currently studying at 42!
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doreshev&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github.com/doreshev?tab=repositories" />
+<img src="https://github.com/doreshev" />
 </picture>
